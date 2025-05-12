@@ -26,3 +26,18 @@ This is a simple To-Do List application built with HTML, CSS, and JavaScript. It
 git clone https://github.com/yourusername/todo-list-app.git
 cd todo-list-app
 open index.html
+
+
+
+## Usage
+
+1. Open the `index.html` file in your browser.
+2. Type a task into the input field and click the "Add" button to add it to the list.
+3. Click on a task to mark it as completed (it will strike through).
+4. Click the "×" icon next to a task to delete it.
+5. Tasks will persist in local storage, so they remain even if the page is reloaded.
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
